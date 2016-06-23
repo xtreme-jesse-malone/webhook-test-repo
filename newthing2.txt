@@ -1,2 +1,3 @@
 newthing.txt
 secret_salt="123jhhu7djjj"
+my_password="abcdefgh123"
