@@ -1,2 +1,2 @@
 newthing.txt
-secret_salt=123jhhu7djjj
+secret_salt="123jhhu7djjj"
