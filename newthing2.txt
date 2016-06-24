@@ -1,3 +1,5 @@
 newthing.txt
+my_secret="argrguc77d8d7777"
+aws_super_secret="dontlookhere12121212"
 my_password="abcdefgh123"
 secret_salt="123jhhu7djjj"
